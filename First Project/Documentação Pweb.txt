@@ -1,0 +1,90 @@
+                                                     DOCUMENTAÇÃO CURSO DESENVOVIMENTO WEB
+
+
+                                                                                    9. HTML:
+
+
+<b><\b> = Deixa qualquer texto em negrito
+
+head = são codigos que não aparecera na pagina, e podem linkar estruturas de formatação e colocar
+códigos java script
+
+body= Posso colocar meus códigos dentro
+
+
+                                                                                         10.HTML :
+
+Identação é espaçamento no código
+<meta charset="utf-8"> Necessário para colocar acentuação nas frases
+
+
+
+                                                                                          12.HTML :
+
+<P><\P>Paragráfos dão espaçamento por di próprio
+
+<br><\br>São quebras de linhas
+
+<hr><\hr>Passam uma linha cortando a pagina e ajuda a visualização
+
+
+                                                                                           13.HTML : 
+
+<STRONG> Deixa o texto em negrito
+<em> Deixa o texto em itálico
+<u> coloca um underline no seu texto
+<strike>palavra fica cortada.
+
+                                                                                            14. html :
+
+<!--Lista desordenadas= ul-->
+	<!--Li significa lista-->
+
+	<ul>
+		<!--type= circle, square, disc-->
+		<li type="circle">JACA</li>
+		<li>JABOTICABA</li>
+		<li>MORANGO</li>
+
+	</ul>
+
+	<h1>Lista de comidas para comparar no supermercado</h1>
+
+<!--listas ordenadas = ol-->
+	<ol type="1">
+		<!--type= 1,I,i,A,a-->
+		<li>JACA</li>
+		<li>JABOTICABA</li>
+		<li>MORANGO</li>
+
+	</ol>
+
+                                                                                                            16. html :
+<img src="imagem_desejada.html "  width =  "100%">    Esse atributo permite colocar imagens de várias extensões. width é a largura dessa img.
+                                                                                                              
+                             
+                                                                                                            17. html:
+<a href="link_desejado.html">Página de contatos</a>    Esse atributo servirá para você acessar outras páginas por meio de um link.
+
+
+ 
+                                                                                                             18. html:
+<table></table>  Servirá para abrir tabelas
+
+<tr></tr>   TR é a linha dessa tabela.
+<td></td>   TD é os dados dessa tabela
+<th></th>    TH é o cabeçalho de uma tabela
+
+
+ 
+                                                                                                             19. html:
+      <td>
+	<img src="imagem_dentro_da_tabela.html ">
+	<a href="link_dentro_da_tabela.html">Página de contatos</a>    
+
+	<!--tambem consigo por imagens e links dentro da linha de uma tabela>
+
+     </td>
+ 
+
+
